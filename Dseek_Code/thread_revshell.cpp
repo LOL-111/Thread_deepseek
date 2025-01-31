@@ -1,3 +1,7 @@
+/*  Author : RED TEAM | MALFORGE GROUP
+    https://malforge-group.in
+*/
+
 #include <windows.h>
 #include <tlhelp32.h>
 #include <iostream>
